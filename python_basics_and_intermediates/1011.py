@@ -1,0 +1,5 @@
+a= int(input())
+#b= float(input())
+#c= float(input())
+vol=float((4/3)*(3.14159)*(a*a*a))
+print("VOLUME = %.3f"%vol)
